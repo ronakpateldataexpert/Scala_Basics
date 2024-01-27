@@ -1,6 +1,5 @@
-object Q1 {
+object Q2 {
   def main(args:Array[String]):Unit= {
-    println("q1 V1")
+    println("q2")
   }
-  }
-
+}
