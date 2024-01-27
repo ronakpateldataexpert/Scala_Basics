@@ -8,7 +8,7 @@ object Q3 {
     print("Enter num2 :")
     val a3= scala.io.StdIn.readDouble()
     val num = List(a1,a2,a3).max
-    println(s" Biggest number from $a1, $a2, $a3 is $num ")
+    println(s" Biggest number from $a1, $a2, $a3 is  $num ")
 
   }
 }

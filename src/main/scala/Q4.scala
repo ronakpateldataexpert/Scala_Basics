@@ -22,7 +22,7 @@ object Q4 {
             }
         else {
               val rem1=num % 2
-              println(s" number $num is odd number and when divided by 2 remainder left is $rem1")
+              println(s" number $num is odd number  and when divided by 2 remainder left is $rem1")
               }
           }
   }

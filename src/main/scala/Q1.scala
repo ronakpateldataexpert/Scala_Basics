@@ -4,7 +4,7 @@ object Q1 {
     print("please enter the weight in kg : ")
     val kg = scala.io.StdIn.readDouble()
     val grams = kg * 1000
-    println(s" $kg kg weight is equal to $grams in grams " )
+    println(s" $kg kg weight is equal to $grams in grams  " )
   }
   }
 

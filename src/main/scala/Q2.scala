@@ -4,6 +4,6 @@ object Q2 {
     print("enter the temp value in C : ")
     val c = scala.io.StdIn.readDouble()
     val f = (c * (9/5)) + 32
-    println(s" $c degree in celsius = $f in Fahrenheit")
+    println(s" $c degree in celsius =  $f in Fahrenheit")
   }
 }
