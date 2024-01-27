@@ -15,7 +15,7 @@ object Q5 {
       } else if (num >= 80 && num < 90) {
         println("Smart")
       } else if (num >= 70 && num < 80) {
-        println("Smart enough")
+        println("Smart  enough")
       }
     }
     else {
