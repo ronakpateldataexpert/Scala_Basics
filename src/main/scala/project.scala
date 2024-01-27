@@ -49,6 +49,8 @@ object project {
       }
       println("hello")
 
+    println("test2")
+
 
 
 
